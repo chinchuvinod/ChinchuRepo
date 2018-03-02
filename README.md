@@ -1,0 +1,2 @@
+# ChinchuRepo
+know about git
